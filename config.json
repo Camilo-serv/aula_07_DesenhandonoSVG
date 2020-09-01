@@ -1,0 +1,26 @@
+{
+    "nome": "Aula 07:  Desenhando no SVG no HTML 5",
+    "academico":{
+        "curso": "Autoração Multimídia II",
+        "cursoIcone": "layout/icones/banner_henrique.svg",
+        "disciplina":"",
+        "responsavel": "Professor Wellington Sarmento / Professor Mauro Pequeno / Professor Henrique Sergio"
+    },
+     "topicos": [        
+        {
+            "nome": "Tópico 01: Manipular imagens bitmap no novo HMTL 5",
+            "local": "topicos/01.html",
+            "audio": "audios/01.mp3",
+            "default": true
+        }
+    ],
+    "pdf": "pdf/AutoracaoMultimidiaII_aula_07.pdf",
+    "audio": "audios/AutoracaoMultimidiaII_aula_07.mp3",    
+    "tema":{
+      "primario": "purple-900",
+      "contraste": "orange"
+    },
+    "imported_styles":[
+        "custom.css"
+    ]
+}
